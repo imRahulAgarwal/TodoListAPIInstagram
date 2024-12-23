@@ -13,6 +13,7 @@ A simple and effective Todo List API that enables users to manage their tasks ef
 1. [Overview](#overview)
 2. [Libraries and Tech Stack](#libraries-and-tech-stack)
 3. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
     - [Clone the Project](#clone-the-project)
     - [Install npm Modules](#install-npm-modules)
     - [Configure Environment Variables](#configure-environment-variables)
@@ -36,11 +37,18 @@ A simple and effective Todo List API that enables users to manage their tasks ef
 
 ## Getting Started
 
+### Prerequisites
+
+Make sure you have the following installed on your system:
+
+-   **Node.js**: [Download Node.js](https://nodejs.org/)
+-   **MongoDB**: [Download MongoDB](https://www.mongodb.com/try/download/community)
+
 ### Clone the Project
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/imRahulAgarwal/TodoListAPIInstagram.git
+cd TodoListAPIInstagram
 ```
 
 ### Install npm Modules
